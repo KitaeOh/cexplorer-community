@@ -1,0 +1,82 @@
+{
+  "project_id": "Cardanokorea",
+  "name": "Cardanokorea",
+  "organization": "KTOP Pool",
+  "verified": true,
+
+  "category": [
+    "infrastructure",
+    "tooling",
+    "governance"
+  ],
+
+  "description_short": "This is a Cardano tool site designed by the Korean community",
+  "description_long": "This is a Cardano tool site optimized for Korean users (though it's fully accessible to non-Koreans as well).\n\nAvailable Features:\n- Check KTOP block status and claim KTOP pool delegator airdrops.\n- Monitor DRep status and access summaries of governance proposals.\n- View wallet portfolios and track specific wallet transactions.\n- Access official links for various Cardano projects and explore the ecosystem map.\n- Monitor real-time minting and burning status of Cardano stablecoins.",
+  "icon": "https://asset1ks0j86t5p66keak9r5ftacggz0pdkgvc6zdjeu.poolpm.nftcdn.io/preview?tk=DGUrcB7PHZZhIVym1MSsaF8MncnJ6msmmg0XRJi9NNg",
+
+  "official_links": {
+    "website": "https://cardanokorea.com/",
+    "x": "https://x.com/ktop_pool",
+    "discord": "",
+    "telegram": "https://t.me/CardanoKTOP",
+    "github": "",
+    "docs": ""
+  },
+
+  "products": [
+    {
+      "name": "CardanoKorea",
+      "description": "Cardano Tool Site for Korean",
+      "links": {
+        "website": "https://cardanokorea.com/",
+        "app": "",
+        "docs": "",
+        "github": ""
+      }
+    }
+  ],
+
+  "assets": [
+    {
+      "asset_id": "asset1ks0j86t5p66keak9r5ftacggz0pdkgvc6zdjeu",
+      "asset_name": "bd781488ceee42931a700d8ec225154cd9e983356bfde7f743b722184b544f50",
+      "description": "\nThis token is intended to distribute the node operation rewards from World Mobile, Iagon, NIGHT and others operated by KTOP SPO to delegators. You can receive it by delegating to the KTOP pool."
+    }
+  ],
+
+  "policy": [
+    {
+      "policy_id": "",
+      "policy_name": "",
+      "description": ""
+    }
+  ],
+
+  "scripts": [
+    {
+      "script_id": "",
+      "script_name": "",
+      "description": ""
+    }
+  ],
+
+  "drep": {
+    "drep_id": "drep1y2fhyudw8ju53e296c3yugvul6h3fpurhnx45lfa9e5meqgtky0gg",
+    "name": "KTOP"
+  },
+
+  "pools": [
+    "pool135h773klt7djljmyawkh88e8qc457wxqfhc6j9h6y9n4y3sgh7t"
+  ],
+
+  "tags": [
+    "KTOP",
+    "On-chain data",
+    "WorldMobile",
+    "Midnight",
+    "airdrop"
+  ],
+
+  "status": "active",
+  "launch_year": 2025
+}
